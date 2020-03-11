@@ -11,7 +11,7 @@ def prepare_data (test_file, list):
 # prepare_data(test_file, list)
 # for data in list:
 # 	print(data)
-data = raw_input()
+data = raw_input("Enter text to be transliterated: ")
 output = transliterate(data)
 print(output)
 # en_blob = TextBlob(output)
