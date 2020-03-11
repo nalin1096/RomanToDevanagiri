@@ -1,4 +1,4 @@
-# Roman script Hindi to Devanagiri script
+# Roman script Hindi to Devanagiri script transliterator
 
 ### Usage
 
